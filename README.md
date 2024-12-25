@@ -92,12 +92,6 @@ To set up the project locally, follow these steps:
    ```bash
    python app.py
    ```  
-
-4. Access the web app at:  
-   ```
-   http://127.0.0.1:5000/
-   ```  
-
 ---
 
 ## 🎯 Usage  
@@ -105,10 +99,6 @@ To set up the project locally, follow these steps:
 1. Explore the **`EBAProject.ipynb`** notebook for in-depth data analysis and model building.  
 2. Use the web application to input employee data and predict burnout rates.  
 3. Leverage actionable insights to optimize resource allocation and implement stress-reducing strategies.  
-
-<div align="center">
-  <img src="https://github.com/yourusername/employee-burnout-analysis/assets/example-results" alt="Prediction Results" width="700">
-</div>
 
 ---
 
