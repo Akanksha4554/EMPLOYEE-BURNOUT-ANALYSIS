@@ -98,9 +98,8 @@ These results demonstrate that Linear Regression outperforms other models in pre
 Contributions are welcome! Fork the repository, make changes, and submit a pull request.  
 
 ---
-
+ 
 ### License  
-This project is licensed under the MIT License.  
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 ---
 
