@@ -79,7 +79,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/employee-burnout-analysis.git
+   git clone https://github.com/Akanksha4554/EMPLOYEE-BURNOUT-ANALYSIS.git
    cd employee-burnout-analysis
    ```  
 
